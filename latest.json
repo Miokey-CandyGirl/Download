@@ -1,7 +1,7 @@
 {
-  "versionName": "2.2.0",
+  "versionName": "2.2.1",
   "versionCode": 5,
-  "url": "https://download.rincatia.com/apk/Lytalk_2.2.0.apk",
-  "changelog": "开发阅读和音乐页面",
-  "updatedAt": "2026-10-09"
+  "url": "https://download.rincatia.com/apk/Lytalk_2.2.1.apk",
+  "changelog": "1、修复已知bug；2、所有待开发功能页面已完成开发或搭建；3、新增更多功能——如Lytalk等级制度上市、Chat支持表情包管理、聊天输入框双击粘贴内容等；4、全面适配深色主题；5、新功能页面UI视觉更和谐；6、流畅度待解决（手机Chrome网页版更流畅）。",
+  "updatedAt": "2026-10-12"
 }
